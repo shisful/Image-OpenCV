@@ -1,0 +1,20 @@
+This is Perl module Image::OpenCV.
+
+INSTALLATION
+
+You should install OpenCV. If your Home Brew shell is set up,
+you should just be able to do.
+
+    % brew install opencv
+
+Download it, unpack it, then build it as per the usual:
+
+    % perl Makefile.PL
+    % make && make test
+
+Then install it:
+
+    % make install
+
+DOCUMENTATION
+
