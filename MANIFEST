@@ -1,0 +1,17 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/Image/OpenCV.pm
+lib/Image/OpenCV.xs
+lib/Image/OpenCV/Image.pm
+src/ppport.h
+
+t/00_compile.t
+t/01_OpenCV.t
+t/02_detect.t
+t/03_Image.t
+t/04_error.t
+t/test.jpg
+t/error.jpg
+t/test2.jpg
